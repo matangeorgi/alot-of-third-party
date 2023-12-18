@@ -19,11 +19,12 @@
     "classnames": "^2.3.2",
     "formik": "^2.4.3",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.8.0",
+    "react-bootstrap": "^2.9.1",
     "react-dom": "^18.2.0",
     "vite-plugin-svgr": "^3.2.0"
   },
   "devDependencies": {
+    "@codux-boards/react-bootstrap": "^0.3.4",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.4",

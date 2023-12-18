@@ -23,5 +23,8 @@
   "styling": {
     "solution": "scss modules"
   },
-  "svgLoader": "both"
+  "svgLoader": "both",
+  "addPanel": {
+    "assets": ["@codux-boards/react-bootstrap"]
+  }
 }
